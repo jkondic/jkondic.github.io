@@ -111,11 +111,7 @@ h2 {
 
 .one {
   width: 240px;
-  height: 240px;
   position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .two {
